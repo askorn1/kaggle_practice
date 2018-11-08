@@ -11,8 +11,7 @@ predict real estate prices for a given test set of objects based on a training s
 The notebook is self-contained in regard to analysis performed and has comments and should be relatively easy to follow.
 
 
-CF_notebook_5_all_stores_kernelPP_1.ipynb (1)
-
+CF_notebook_5_all_stores_kernelPP_1.ipynb (1) 
 CF_notebook_3_all_stores_2.ipynb (2)
 
 Competition URL:
